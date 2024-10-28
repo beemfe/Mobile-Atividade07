@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gerenciador de Contas</string>
+    <string name="tipo_de_conta">Tipo de Conta</string>
+    <string name="conta_poupanca">Conta Poupança</string>
+    <string name="conta_especial">Conta Especial</string>
+    <string name="digite_valor">Digite o Valor</string>
+    <string name="sacar">Sacar</string>
+    <string name="depositar">Depositar</string>
+    <string name="mostrar_saldo">Mostrar Saldo</string>
+    <string name="valor_sacado">Valor sacado</string>
+    <string name="valor_depositado">Valor depositado</string>
+    <string name="novo_saldo_calculado">Novo saldo calculado para Conta Poupança</string>
+    <string name="saldo_atual">Saldo atual</string>
+</resources>
